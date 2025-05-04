@@ -1,2 +1,2 @@
 # ImageCaptioning
-Used Transfer Learning on Xception for image captioning of Flickr dataset.
+Fine tuned Xception for image captioning of Flickr dataset.
